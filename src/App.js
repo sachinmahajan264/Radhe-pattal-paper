@@ -1,11 +1,11 @@
 import './App.css';
 import { Component } from 'react';
-import Cl from './Cl';
+import Cl from './Apna-app/Cl';
 import Contenar from './component/Contenar';
 import { BrowserRouter,Routes,Route } from 'react-router-dom';
-import Shopping from './Shopping'
-import Home from './Home';
-import Contact from './Contact';
+import Shopping from './Apna-app/Shopping'
+import Home from './Apna-app/Home';
+import Contact from './Apna-app/Contact';
 
 
  export default class App extends Component{
