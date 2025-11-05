@@ -134,7 +134,7 @@ class Shopping extends Component{
           <form className='email' onSubmit={this.submitform.bind()}>
             <div className='tera'>
             <textarea/>
-            </div>dv
+            </div>
             <div className=''>
                <button type='submit'>Done</button>
             </div>
