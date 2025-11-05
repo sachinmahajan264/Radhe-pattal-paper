@@ -1,11 +1,11 @@
 import './App.css';
-import axios from 'axios';
-import Ragistration from './Ragistration';
-import Greet from './Greet';
 import { Component } from 'react';
 import Cl from './Cl';
-import { render } from '@testing-library/react';
 import Contenar from './component/Contenar';
+import { BrowserRouter,Routes,Route } from 'react-router-dom';
+import Shopping from './Shopping'
+import Home from './Home';
+import Contact from './Contact';
 
 
  export default class App extends Component{
@@ -13,7 +13,15 @@ render(){
   return(
     <div>
       <Cl/>
+      
+      <div>
+      <Routes>
+         <Route path='' element={<Home/>}/>
+        <Route path='/Shopping' element={<Shopping/>}/>
+        <Route path='/Contact' element={<Contact/>}/>
+      </Routes>
     </div>
+  </div>
   )
 }
 

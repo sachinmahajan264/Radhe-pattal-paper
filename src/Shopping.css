@@ -1,0 +1,111 @@
+.main1{
+
+  width: 80%;
+  margin: 60px 8% 0% 8%;
+  height:400px;
+  padding: 20px;
+  
+  box-shadow: 0px 0px 8px 3px rgb(150, 141, 141);
+  /* border: solid yellowgreen; */
+  
+}
+ .hedding{
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 60px;
+  margin:30px;
+  color: black;
+ 
+
+  text-decoration: double underline;
+ 
+}
+h1{
+  margin-left: 30px;
+  color: blueviolet;
+}
+.scroll{
+  width: 100%;
+  height: 400px;
+  
+  /* overflow-y:hidden; */
+  overflow-x: scroll;
+  scrollbar-width: none;
+
+  float:left;
+  display: flex;
+
+}
+.f1{
+  width: 300px;
+  height: 350px;
+  margin: 20px;
+  
+  margin-left: 90px;
+}
+/* .f2{
+  width: 164px;
+} */
+ .f1 img{
+  height: 300px;
+  width: 220px; 
+}
+.f1:hover{
+box-shadow: 0px 0px 2px 4px rgb(155, 141, 141);
+/* transform: translate(2px); */
+}
+span{
+  margin: 5px;
+  margin-left: 15px;
+}
+.sign{
+  background-color: rgb(218, 215, 250);
+  margin: 0% 8% 0% 8% ;
+  padding: 20px;
+  width: 80%;
+  height: 60px;
+  overflow: hidden;
+  border: none;
+}
+.text{
+  width: 30%;
+  float: left;
+ margin-left: 30px;
+ 
+}
+.text p{
+  font-size: 30px;
+}
+.email textarea{
+width: 40%;
+height: 30px;
+float: left;
+font-size: 20px;
+}
+.email button{
+  float: left;
+  width: 100px;
+  height: 40px;
+}
+.footer{
+  width: 80%;
+  
+   margin: 5px 8% 0% 8% ;
+  height: 300px;
+  padding: 20px;
+  background-color: blueviolet;
+ overflow:scroll ;
+ scrollbar-width: none;
+}
+.footertext{
+  float: left;
+  height: 200px;
+  margin: 30px;
+ 
+ 
+  
+}
+
+form{
+  border: none;
+}
