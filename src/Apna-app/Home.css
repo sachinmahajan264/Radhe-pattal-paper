@@ -18,6 +18,7 @@
     height: 400px;
     width: 50%;
     float: left;
+    overflow: hidden;
 }
 .information{
     width: 50%;

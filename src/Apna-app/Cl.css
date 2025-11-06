@@ -10,9 +10,10 @@ background-color: bisque;
 position: fixed;
 top: 0px;
 overflow: hidden;
+display: flex;
 } 
 .navbar a{
- float: right;
+ float: left;
  margin-top: 11px;
  height: 30px;
  width:100px;
@@ -24,6 +25,7 @@ color: chocolate;
   text-decoration:underline;
 
 }
+
 
 
 .magic{
