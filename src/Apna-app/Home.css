@@ -32,7 +32,8 @@ form{
     margin: 0% 20% 0% 20%;
     font-size: 25px;
     font-weight: bold;
-    overflow: hidden;
+    overflow: hidden
+
 }
 input{
     width: 80%;
