@@ -4,7 +4,8 @@ import './Home.css'
 import { Component } from 'react'
 class Home extends Component {
  
-  submitform(){
+  submitform(event){
+    event.preventDefault();
     alert("Thanks to show may web page");
   }
  
