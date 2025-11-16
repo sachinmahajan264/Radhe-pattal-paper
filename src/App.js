@@ -1,16 +1,7 @@
 import './App.css';
-import { Component } from 'react';
-import Cl from './Apna-app/Cl';
-import Contenar from './component/Contenar';
-import { BrowserRouter,Routes,Route } from 'react-router-dom';
-import Shopping from './Apna-app/Shopping'
-import Home from './Apna-app/Home';
-import Contact from './Apna-app/Contact';
-import Counter from './Counter';
-import TemperatureConverter from './TemperatureConverter';
 
 
- export default class App extends Component{
+class App extends Component{
 render(){
   return(
     <div>
@@ -18,57 +9,7 @@ render(){
     </div>
   )
 }
-
-
-
-
-
-
- }
-//   constructor(props){
-//     super(props);
-
-  
-
-
-//     this.state={
-//       isNextpage: false,
-//       name: null,
-//       email: null,
-//       password: null,
-//       showpassword: false
-
-//     };
-//   }
-//   submitHendler=(event)=>{
-  
-//     let name=event.target.name.value;
-//     let email=event.target.email.value;
-//     let password=event.target.password.value;
-
-//     this.setState({name,email,password,isNextpage: true})
-
-    
-//   }
-//   onclicpassword =()=>{
-//     this.setState({showpassword : ! this.state.showpassword})
-//   }
-//   render(){
-//     return(
-//       <div>
-//       {
-//          this.state.isNextpage ?
-//         <Greet name={this.state.name} email={this.state.email}/> 
-//         :< Ragistration 
-//         submit={this.submitHendler}
-//         showpassword={this.state.showpassword}
-//         click={this.onclicpassword}
-//         /> 
-//       }
-//       </div>
-//     )
-//   }
-// }
+}
 
 
 
