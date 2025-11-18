@@ -114,9 +114,9 @@ const userRef = ref(db,username + userId);
             <Formdata>
             <form onSubmit={this.onsubmitform}>
                 <label htmlFor="name">FirstName</label>
-                <input type="text" name="name" id="name" placeholder="Enter your name" onChange={this.onChengeForm} value={this.state.name}/>
+                <input type="text" name="name" id="name" placeholder="Enter your name" onChange={this.onChengeForm} value={this.state.name} required/>
                 <label htmlFor="lastname">LastName</label>
-                <input type="text" name="lastname" id="lastname" placeholder="Enter last name" onChange={this.onChengeForm}value={this.state.lastname}/>
+                <input type="text" name="lastname" id="lastname" placeholder="Enter last name" onChange={this.onChengeForm}value={this.state.lastname} required/>
                 <label htmlFor="fathername">FatherName</label>
                 <input type="text" name="fathername" id="fathername" placeholder="Enter father name" onChange={this.onChengeForm} value={this.state.fathername}/>
                 <label htmlFor="mothername">MotherName</label>
