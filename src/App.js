@@ -1,18 +1,24 @@
 import './App.css';
-import Form from './form';
+
 import { Component } from 'react';
 import Pattal from './Radhe-pattal-paper/Pattal';
 
- export default class App extends Component{
+ class App extends Component{
+  constructor(props){
+    super(props)
+    
+  }
 render(){
+  
   return(
   <div>
    <Pattal/>
+   
   </div>
   )
 }
  }
-
+export default App;
 
 
 
