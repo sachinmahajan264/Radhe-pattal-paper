@@ -37,7 +37,7 @@ export default function About() {
                   <img src={Pattal4} className='img1'/>
        </div>
          <div className='pat2'>
-            <b>Quantity 20/, Quality (Kela Pattal / Sal pattal)</b> 
+            <b>Quantity 20/, Quality (Kela Patta / Sal patta)</b> 
                 <ol>
                 <li><b>Green</b></li>
                   <ul>
@@ -60,7 +60,7 @@ export default function About() {
                   <img src={Pattal3} className='img1'/>
        </div>
          <div className='pat2'>
-            <b>Quantity 20/, Quality (Kela Pattal / Sal pattal)</b> 
+            <b>Quantity 20/, Quality (Kela Patta / Sal patta)</b> 
                 <ol>
                 <li><b>Green</b></li>
                   <ul>
@@ -82,7 +82,7 @@ export default function About() {
                   <img src={Pattal4} className='img1'/>
        </div>
          <div className='pat2'>
-            <b>Quantity 20/, Quality (Kela Pattal / Sal pattal)</b> 
+            <b>Quantity 20/, Quality (Kela Patta / Sal patta)</b> 
                 <ol>
                 
                 <li><b>Silver</b></li>
@@ -108,7 +108,7 @@ export default function About() {
                  <img src={Pattal7} className='img1'/>
        </div>
          <div className='pat2'>
-            <b>Quantity 20/, Quality (Kela Pattal / Sal pattal)</b> 
+            <b>Quantity 20/, Quality (Kela Patta / Sal patta)</b> 
                 <ol>
                 <li><b>Green</b></li>
                   <ul>
@@ -131,7 +131,7 @@ export default function About() {
                   <img src={Pattal8} className='img1'/>
        </div>
          <div className='pat2'>
-            <b>Quantity 20/, Quality (Kela Pattal / Sal pattal)</b> 
+            <b>Quantity 20/, Quality (Kela Patta / Sal patta)</b> 
                 <ol>
                 <li><b>Green</b></li>
                   <ul>
@@ -151,7 +151,7 @@ export default function About() {
                   <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwYGWMyby2jEm78oIF2nSowoRtpExcON28yw&s' className='img1'/>
        </div>
          <div className='pat2'>
-            <b>Quantity 20/, Quality (Kela Pattal / Sal pattal)  </b> 
+            <b>Quantity 20/, Quality (Kela Patta / Sal patta)  </b> 
                 <ol>
                 <li><b>Green</b></li>
                   <ul>
@@ -173,7 +173,7 @@ export default function About() {
                   <img src={Pattal15} className='img1'/>
        </div>
          <div className='pat2'>
-            <b>Quantity 20/, Quality (Kela Pattal / Sal pattal) Silver </b> 
+            <b>Quantity 20/, Quality (Kela Patta / Sal patta) Silver </b> 
                 <ol>
                
                 
@@ -204,7 +204,7 @@ export default function About() {
                   <img src={Pattal11} className='img1'/>
        </div>
          <div className='pat2'>
-            <b>Quantity 20/, Quality (Kela Pattal / Sal pattal)</b> 
+            <b>Quantity 20/, Quality (Kela Patta / Sal patta)</b> 
                 <ol>
                
                 
@@ -228,7 +228,7 @@ export default function About() {
 
        </div>
          <div className='pat2'>
-            <b>Quantity 20/, Quality (Kela Pattal / Sal pattal)</b> 
+            <b>Quantity 20/, Quality (Kela Patta / Sal patta)</b> 
                 <ol>
                <li><b>Silver (6 inch)</b></li>
                   <ul>
@@ -253,7 +253,7 @@ export default function About() {
 
        </div>
          <div className='pat2'>
-            <b>Quantity 20/, Quality (Kela Pattal / Sal pattal)</b> 
+            <b>Quantity 20/, Quality (Kela Patta / Sal patta)</b> 
                 <ol>
                <li><b>Silver (7 inch)</b></li>
                   <ul>
@@ -279,7 +279,7 @@ export default function About() {
 
        </div>
          <div className='pat2'>
-            <b>Quantity 24/, Quality (Kela Pattal / Sal pattal)</b> 
+            <b>Quantity 24/, Quality (Kela Patta / Sal patta)</b> 
                 <ol>
                <li><b>Silver (8 inch)</b></li>
                   <ul>
