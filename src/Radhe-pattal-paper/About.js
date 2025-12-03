@@ -93,7 +93,7 @@ export default function About() {
                  </ul>
                 <li><b>Green</b></li>
                   <ul>
-                  <li>none </li>
+                  <li>none</li>
                  </ul>
                   
                 </ol>
